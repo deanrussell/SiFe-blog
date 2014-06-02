@@ -54,7 +54,7 @@ html, body {
 	font-family: Gill Sans, sans-serif;
 	color: #353535;
 	clear: both;
-	margin-right: 40px;
+	margin-right: 50px;
 	margin-top: 100px;
 	border-radius: 3;
 }
@@ -70,4 +70,23 @@ html, body {
 	padding: 10px 10px 10px 10px;
 	margin: 15px 0px 0px 0px;
 	border-radius: 3;
+}
+
+.name-template {
+	color: white;
+	font-family: Gill Sans, Gill Sans MT, sans-serif;
+	text-align: center;
+}
+
+#name-template_dr {
+	font-size: 200%;
+	margin-top: 105%;
+}
+
+.name-template_list {
+	font-size: 100%;
+}
+
+hr {
+	width: 50%;
 }
