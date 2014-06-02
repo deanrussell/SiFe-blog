@@ -1,6 +1,7 @@
 html, body {
 	margin:0;
 	padding:0;
+	background-color: #353535;
 }
 
 
@@ -65,8 +66,7 @@ html, body {
 }
 
 .notecard {
-	box-shadow: 10px 10px 5px #888888;
-	background-color: #E8E8E8;
+	background-color: white;
 	padding: 10px 10px 10px 10px;
 	margin: 15px 0px 0px 0px;
 	border-radius: 3;
