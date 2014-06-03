@@ -1,6 +1,9 @@
 $(document).ready(function(){
-    var $k = $('img');
-    $k.click(function(){
-        $(this).effect('bounce', {times: 3}, 500);
+	$('#dr').click(function(){
+        $(this).effect('bounce', {times: 3}, 700);
     });
+    $('span').animate(function(){
+    	color: white;},
+    	500
+    );
 });
