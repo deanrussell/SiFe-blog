@@ -12,7 +12,7 @@ html, body {
 	width: 100%;
 	height: 10%;
 	background-color: #353535;
-	border-bottom:thick solid #242424;
+	border-bottom: 10px solid #242424;
 }
 
 .bar_subheader{
@@ -29,7 +29,7 @@ html, body {
 	position: fixed;
 	min-width: 100px;
 	float: left;
-	width: 20%;
+	width: 24%;
 	height: 100%;
 	background-color: #353535;
 }
@@ -41,9 +41,9 @@ html, body {
 	width: 80%;
 	height: auto;
 	border-radius: 100%;
-	border: 3px solid #242424;
+	border: 3px solid #353535;
 	margin-top: 40px;
-	margin-left: 20px
+	margin-left: 10%;
 }
 
 .notecard_roll {
@@ -56,7 +56,7 @@ html, body {
 	color: #353535;
 	clear: both;
 	margin-right: 50px;
-	margin-top: 100px;
+	margin-top: 110px;
 	border-radius: 3;
 }
 
@@ -98,6 +98,15 @@ hr {
 	padding-right: 5%;
 	margin-top: 10px;
 	font-size: 40px;
+}
+
+#si-subtitle {
+	color: white;
+	text-align: right;
+	font-family: Gill Sans, Gill Sans MT, sans-serif;
+	padding-right: 5%;
+	margin-top: 13px;
+	font-size: 20px;
 }
 
 #pink {
