@@ -10,7 +10,7 @@ html, body {
 	position: fixed;
 	float: top;
 	width: 100%;
-	height: 7%;
+	height: 10%;
 	background-color: #353535;
 	border-bottom:thick solid #242424;
 }
@@ -18,7 +18,7 @@ html, body {
 .bar_subheader{
 	z-index: 1;
 	position: absolute;
-	margin-top: 3%;
+	margin-top: 5%;
 	width: 100%;
 	height: 7%;
 	background-color: #242424;
@@ -89,4 +89,25 @@ html, body {
 
 hr {
 	width: 50%;
+}
+
+#si-title {
+	color: white;
+	text-align: right;
+	font-family: Gill Sans, Gill Sans MT, sans-serif;
+	padding-right: 5%;
+	margin-top: 10px;
+	font-size: 40px;
+}
+
+#pink {
+	color: #FF1975;
+}
+
+#green {
+	color: #66FF33;
+}
+
+#yellow {
+	color: #FFFF75;
 }
